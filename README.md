@@ -2,11 +2,11 @@
 
 ## Description
 
-This project is a web scraper that targets the "Apple Scholars in AI/ML" webpage. The goal is to extract detailed information about scholars in the Artificial Intelligence and Machine Learning domain who have been recognized by Apple in various years.
+This project is a web scraper that targets the [Apple Scholars in AI/ML webpage](https://machinelearning.apple.com/work-with-us#scholars). The goal is to extract the information for each scholar into an Excel spreadsheet.
 
 ## Features
 
-- **Yearly Data Extraction**: The scraper retrieves data for scholars from specified years (currently set to extract data from 2023).
+- **Yearly Data Extraction**: The scraper retrieves data for scholars from specified years (currently set to extract data from 2020-2023).
 - **Detailed Scholar Profiles**: For each scholar, the scraper extracts:
    * Year of recognition
    * Name
